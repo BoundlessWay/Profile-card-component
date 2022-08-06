@@ -23,7 +23,9 @@ body {
     display: flex;
     background-color: var(--primary-Dark-cyan);
     height: 720px;
-    background-image: url(./Resources/images/bg-pattern-bottom.svg);
+    background-image: url(./Resources/images/bg-pattern-bottom.svg), url(./Resources/images/bg-pattern-top.svg);
+    background-repeat: no-repeat;
+    background-position: top 372px left 610px, top -556px left -226px
 }
 
 .Profile-card {
