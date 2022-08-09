@@ -25,7 +25,7 @@ body {
     height: 720px;
     background-image: url(./Resources/images/bg-pattern-bottom.svg), url(./Resources/images/bg-pattern-top.svg);
     background-repeat: no-repeat;
-    background-position: top 372px left 610px, top -556px left -226px
+    background-position: top 397px left 626px, top -504px left -337px;
 }
 
 .Profile-card {
